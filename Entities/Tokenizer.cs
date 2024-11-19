@@ -21,6 +21,20 @@ public class Tokenizer
         Text.Sentences = sentences;
     }
 
+    
+    public void TokenizeForSerialize()
+    {   
+        foreach (var sentence in Text.Sentences)
+        {   
+           sentence.Tokens = sentence.Words.Cast<Token>()
+            .Concat(sentence.Punctuation.Cast<Token>())
+            .OrderBy(token => token.PlaceInSentence)
+            .ToList();
+        }
+    }
+    
+
+
     public void TokenizeWordsAndPunctuation(){
         string wordPattern = @"\w+|[^\w\s]";
 
@@ -29,16 +43,25 @@ public class Tokenizer
             var punctuation = new List<Punctuation>();
 
             var matches = Regex.Matches(sentence.Text, wordPattern);
+
+            int counter = 0;
+
             foreach (Match match in matches)
             {
                 if (char.IsPunctuation(match.Value[0]))
-                {
-                    punctuation.Add(new Punctuation(match.Value));
+                {   
+                    var punc = new Punctuation(match.Value);
+                    punc.PlaceInSentence = counter;
+                    punctuation.Add(punc);
+                
                 }
                 else
-                {
-                    words.Add(new Word(match.Value));
+                {   
+                    var word = new Word(match.Value);
+                    word.PlaceInSentence = counter;
+                    words.Add(word);
                 }
+                counter++;
             }
 
             sentence.Words = words;

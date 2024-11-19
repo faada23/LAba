@@ -4,20 +4,21 @@ public class Sentence {
     [XmlIgnore]
     public string Text { get; set; }
 
-    [XmlElement("word")] // Элемент для каждого слова
+    [XmlIgnore]
     public List<Word> Words { get; set; }
-
     [XmlIgnore]
     public List<Punctuation> Punctuation { get; set; }
+    public List<Token> Tokens { get; set; }
 
     [XmlIgnore]
     public SentenceType Type { get; set; }
 
-    public Sentence(string text)
+    public Sentence(string text) 
     {
         Text = text;
         Words = new List<Word>();
         Punctuation = new List<Punctuation>();
+
     }
 
     public Sentence() 
@@ -25,4 +26,5 @@ public class Sentence {
         Words = new List<Word>();
         Punctuation = new List<Punctuation>();
     }
+
 }

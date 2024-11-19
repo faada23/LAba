@@ -1,6 +1,6 @@
 using System.Xml.Serialization;
 
-public class Word
+public class Word : Token
 {   
     [XmlText] // Элемент для сериализации
     public string word { get; set; }

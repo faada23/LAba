@@ -1,16 +1,19 @@
 ﻿using System;
 using System.Globalization;
 using System.Text.RegularExpressions;
+using System.Xml.Serialization;
 
 namespace Parcer;
 class Program
 {   
     public static Tokenizer tokenizer = null!;
+    public static XMLSerializer xmlSerializer = null!;
 
     static void Main(string[] args)
     {   
         FileReader fr = new FileReader();
         fr.ReadFile(@"D:\programmes\vs code projects\LAba\text.txt");
+        xmlSerializer = new XMLSerializer();
 
         Text text = new Text(fr.Text);
 
@@ -130,7 +133,9 @@ class Program
     }
 
     public static void XmlSerialize(Text text){
-        text.XmlSerialize(@"D:\programmes\vs code projects\LAba\text.xml");
+        tokenizer.TokenizeForSerialize();
+        
+        xmlSerializer.TextCustomXml(@"D:\programmes\vs code projects\LAba\text.xml",text);
     }
 }
 

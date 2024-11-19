@@ -1,337 +1,413 @@
-<?xml version="1.0" encoding="utf-8"?>
-<text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <sentence>
-    <word>Biodiversity</word>
-    <word>biological</word>
-    <word>diversity</word>
-    <word>refers</word>
-    <word>variety</word>
-    <word>Earth</word>
-    <word>encompassing</word>
-    <word>diversity</word>
-    <word>species</word>
-    <word>genetic</word>
-    <word>variations</word>
-    <word>species</word>
-    <word>ecosystems</word>
-    <word>support</word>
-  </sentence>
-  <sentence>
-    <word>intricate</word>
-    <word>newWord</word>
-    <word>essential</word>
-    <word>newWord</word>
-    <word>newWord</word>
-    <word>sustainability</word>
-    <word>newWord</word>
-    <word>planet</word>
-    <word>influencing</word>
-    <word>newWord</word>
-    <word>systems</word>
-    <word>climate</word>
-    <word>regulation</word>
-  </sentence>
-  <sentence>
-    <word>Biodiversity</word>
-    <word>plays</word>
-    <word>critical</word>
-    <word>maintaining</word>
-    <word>ecological</word>
-    <word>balance</word>
-  </sentence>
-  <sentence>
-    <word>species</word>
-    <word>specific</word>
-    <word>ecosystem</word>
-    <word>contributing</word>
-    <word>processes</word>
-    <word>pollination</word>
-    <word>nutrient</word>
-    <word>cycling</word>
-    <word>regulation</word>
-    <word>populations</word>
-  </sentence>
-  <sentence>
-    <word>pollinators</word>
-    <word>vital</word>
-    <word>reproduction</word>
-    <word>plants</word>
-    <word>including</word>
-    <word>crops</word>
-    <word>humans</word>
-    <word>decline</word>
-    <word>pollinator</word>
-    <word>populations</word>
-    <word>reduced</word>
-    <word>yields</word>
-    <word>threaten</word>
-    <word>security</word>
-  </sentence>
-  <sentence>
-    <word>economic</word>
-    <word>biodiversity</word>
-    <word>immense</word>
-  </sentence>
-  <sentence>
-    <word>industries</word>
-    <word>including</word>
-    <word>agriculture</word>
-    <word>pharmaceuticals</word>
-    <word>tourism</word>
-    <word>depend</word>
-    <word>diverse</word>
-    <word>biological</word>
-    <word>resources</word>
-  </sentence>
-  <sentence>
-    <word>instance</word>
-    <word>large</word>
-    <word>percentage</word>
-    <word>modern</word>
-    <word>medicines</word>
-    <word>derived</word>
-    <word>natural</word>
-    <word>compounds</word>
-    <word>found</word>
-    <word>plants</word>
-    <word>animals</word>
-  </sentence>
-  <sentence>
-    <word>biodiversity</word>
-    <word>jeopardize</word>
-    <word>industries</word>
-    <word>livelihoods</word>
-    <word>support</word>
-  </sentence>
-  <sentence>
-    <word>Sustainable</word>
-    <word>practices</word>
-    <word>protect</word>
-    <word>biodiversity</word>
-    <word>economic</word>
-    <word>benefits</word>
-  </sentence>
-  <sentence>
-    <word>Biodiversity</word>
-    <word>crucial</word>
-    <word>climate</word>
-    <word>regulation</word>
-  </sentence>
-  <sentence>
-    <word>Healthy</word>
-    <word>ecosystems</word>
-    <word>forests</word>
-    <word>wetlands</word>
-    <word>act</word>
-    <word>carbon</word>
-    <word>sinks</word>
-    <word>absorbing</word>
-    <word>carbon</word>
-    <word>dioxide</word>
-    <word>atmosphere</word>
-    <word>helping</word>
-    <word>mitigate</word>
-    <word>climate</word>
-    <word>change</word>
-  </sentence>
-  <sentence>
-    <word>biodiversity</word>
-    <word>disrupt</word>
-    <word>systems</word>
-    <word>reducing</word>
-    <word>capacity</word>
-    <word>sequester</word>
-    <word>carbon</word>
-    <word>exacerbating</word>
-    <word>effects</word>
-    <word>global</word>
-    <word>warming</word>
-  </sentence>
-  <sentence>
-    <word>Additionally</word>
-    <word>diverse</word>
-    <word>ecosystems</word>
-    <word>resilient</word>
-    <word>climate</word>
-    <word>extremes</word>
-    <word>droughts</word>
-    <word>floods</word>
-    <word>increasingly</word>
-    <word>common</word>
-    <word>due</word>
-    <word>climate</word>
-    <word>change</word>
-  </sentence>
-  <sentence>
-    <word>ecological</word>
-    <word>economic</word>
-    <word>factors</word>
-    <word>biodiversity</word>
-    <word>holds</word>
-    <word>immense</word>
-    <word>cultural</word>
-    <word>significance</word>
-  </sentence>
-  <sentence>
-    <word>communities</word>
-    <word>world</word>
-    <word>connections</word>
-    <word>local</word>
-    <word>environments</word>
-    <word>traditional</word>
-    <word>knowledge</word>
-    <word>practices</word>
-    <word>specific</word>
-    <word>species</word>
-    <word>ecosystems</word>
-  </sentence>
-  <sentence>
-    <word>cultural</word>
-    <word>heritage</word>
-    <word>intertwined</word>
-    <word>identity</word>
-    <word>communities</word>
-  </sentence>
-  <sentence>
-    <word>Protecting</word>
-    <word>biodiversity</word>
-    <word>helps</word>
-    <word>preserve</word>
-    <word>cultural</word>
-    <word>legacy</word>
-    <word>future</word>
-    <word>generations</word>
-  </sentence>
-  <sentence>
-    <word>importance</word>
-    <word>biodiversity</word>
-    <word>threat</word>
-    <word>human</word>
-    <word>activities</word>
-  </sentence>
-  <sentence>
-    <word>Habitat</word>
-    <word>destruction</word>
-    <word>pollution</word>
-    <word>climate</word>
-    <word>change</word>
-    <word>overexploitation</word>
-    <word>resources</word>
-    <word>leading</word>
-    <word>extinction</word>
-    <word>species</word>
-    <word>alarming</word>
-  </sentence>
-  <sentence>
-    <word>World</word>
-    <word>Wildlife</word>
-    <word>world</word>
-    <word>s</word>
-    <word>wildlife</word>
-    <word>40</word>
-    <word>years</word>
-  </sentence>
-  <sentence>
-    <word>affects</word>
-    <word>species</word>
-    <word>cascading</word>
-    <word>effects</word>
-    <word>entire</word>
-    <word>ecosystems</word>
-    <word>human</word>
-    <word>societies</word>
-  </sentence>
-  <sentence>
-    <word>combat</word>
-    <word>decline</word>
-    <word>biodiversity</word>
-    <word>conservation</word>
-    <word>efforts</word>
-    <word>essential</word>
-  </sentence>
-  <sentence>
-    <word>include</word>
-    <word>establishing</word>
-    <word>protected</word>
-    <word>areas</word>
-    <word>restoring</word>
-    <word>degraded</word>
-    <word>ecosystems</word>
-    <word>implementing</word>
-    <word>sustainable</word>
-    <word>use</word>
-    <word>practices</word>
-  </sentence>
-  <sentence>
-    <word>International</word>
-    <word>agreements</word>
-    <word>Convention</word>
-    <word>Biological</word>
-    <word>Diversity</word>
-    <word>aim</word>
-    <word>promote</word>
-    <word>conservation</word>
-    <word>biodiversity</word>
-    <word>ensure</word>
-    <word>sustainable</word>
-    <word>local</word>
-    <word>actions</word>
-    <word>equally</word>
-    <word>important</word>
-    <word>community</word>
-    <word>led</word>
-    <word>conservation</word>
-    <word>initiatives</word>
-    <word>incredibly</word>
-    <word>effective</word>
-    <word>protecting</word>
-    <word>local</word>
-    <word>ecosystems</word>
-  </sentence>
-  <sentence>
-    <word>conclusion</word>
-    <word>biodiversity</word>
-    <word>vital</word>
-    <word>health</word>
-    <word>planet</word>
-    <word>being</word>
-    <word>humanity</word>
-  </sentence>
-  <sentence>
-    <word>supports</word>
-    <word>ecological</word>
-    <word>balance</word>
-    <word>economic</word>
-    <word>resources</word>
-    <word>regulates</word>
-    <word>climate</word>
-    <word>enriches</word>
-    <word>cultural</word>
-    <word>identities</word>
-  </sentence>
-  <sentence>
-    <word>Protecting</word>
-    <word>biodiversity</word>
-    <word>environmental</word>
-    <word>issue</word>
-    <word>fundamental</word>
-    <word>aspect</word>
-    <word>ensuring</word>
-    <word>sustainable</word>
-    <word>future</word>
-    <word>living</word>
-    <word>beings</word>
-  </sentence>
-  <sentence>
-    <word>individuals</word>
-    <word>communities</word>
-    <word>nations</word>
-    <word>recognize</word>
-    <word>importance</word>
-    <word>biodiversity</word>
-    <word>collectively</word>
-    <word>safeguard</word>
-    <word>future</word>
-    <word>generations</word>
-  </sentence>
+<text>
+<sentence>
+<word>Biodiversity</word>
+<punctuation>,</punctuation>
+<word>biological</word>
+<word>diversity</word>
+<punctuation>,</punctuation>
+<word>refers</word>
+<word>variety</word>
+<word>Earth</word>
+<punctuation>,</punctuation>
+<word>encompassing</word>
+<word>diversity</word>
+<word>species</word>
+<punctuation>,</punctuation>
+<word>genetic</word>
+<word>variations</word>
+<word>species</word>
+<punctuation>,</punctuation>
+<word>ecosystems</word>
+<word>support</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>intricate</word>
+<word>newWord</word>
+<word>essential</word>
+<word>newWord</word>
+<word>newWord</word>
+<word>sustainability</word>
+<word>newWord</word>
+<word>planet</word>
+<punctuation>,</punctuation>
+<word>influencing</word>
+<word>newWord</word>
+<word>systems</word>
+<word>climate</word>
+<word>regulation</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>Biodiversity</word>
+<word>plays</word>
+<word>critical</word>
+<word>maintaining</word>
+<word>ecological</word>
+<word>balance</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>species</word>
+<word>specific</word>
+<word>ecosystem</word>
+<punctuation>,</punctuation>
+<word>contributing</word>
+<word>processes</word>
+<word>pollination</word>
+<punctuation>,</punctuation>
+<word>nutrient</word>
+<word>cycling</word>
+<punctuation>,</punctuation>
+<word>regulation</word>
+<word>populations</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>pollinators</word>
+<word>vital</word>
+<word>reproduction</word>
+<word>plants</word>
+<punctuation>,</punctuation>
+<word>including</word>
+<word>crops</word>
+<word>humans</word>
+<word>decline</word>
+<word>pollinator</word>
+<word>populations</word>
+<word>reduced</word>
+<word>yields</word>
+<word>threaten</word>
+<word>security</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>economic</word>
+<word>biodiversity</word>
+<word>immense</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>industries</word>
+<punctuation>,</punctuation>
+<word>including</word>
+<word>agriculture</word>
+<punctuation>,</punctuation>
+<word>pharmaceuticals</word>
+<punctuation>,</punctuation>
+<word>tourism</word>
+<punctuation>,</punctuation>
+<word>depend</word>
+<word>diverse</word>
+<word>biological</word>
+<word>resources</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>instance</word>
+<punctuation>,</punctuation>
+<word>large</word>
+<word>percentage</word>
+<word>modern</word>
+<word>medicines</word>
+<word>derived</word>
+<word>natural</word>
+<word>compounds</word>
+<word>found</word>
+<word>plants</word>
+<word>animals</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>biodiversity</word>
+<word>jeopardize</word>
+<word>industries</word>
+<word>livelihoods</word>
+<word>support</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>Sustainable</word>
+<word>practices</word>
+<word>protect</word>
+<word>biodiversity</word>
+<punctuation>-</punctuation>
+<word>economic</word>
+<word>benefits</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>Biodiversity</word>
+<word>crucial</word>
+<word>climate</word>
+<word>regulation</word>
+<punctuation>?</punctuation>
+</sentence>
+<sentence>
+<word>Healthy</word>
+<word>ecosystems</word>
+<punctuation>,</punctuation>
+<word>forests</word>
+<word>wetlands</word>
+<punctuation>,</punctuation>
+<word>act</word>
+<word>carbon</word>
+<word>sinks</word>
+<punctuation>,</punctuation>
+<word>absorbing</word>
+<word>carbon</word>
+<word>dioxide</word>
+<word>atmosphere</word>
+<word>helping</word>
+<word>mitigate</word>
+<word>climate</word>
+<word>change</word>
+<punctuation>?</punctuation>
+</sentence>
+<sentence>
+<word>biodiversity</word>
+<word>disrupt</word>
+<word>systems</word>
+<punctuation>,</punctuation>
+<word>reducing</word>
+<word>capacity</word>
+<word>sequester</word>
+<word>carbon</word>
+<word>exacerbating</word>
+<word>effects</word>
+<word>global</word>
+<word>warming</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>Additionally</word>
+<punctuation>,</punctuation>
+<word>diverse</word>
+<word>ecosystems</word>
+<word>resilient</word>
+<word>climate</word>
+<word>extremes</word>
+<punctuation>,</punctuation>
+<word>droughts</word>
+<word>floods</word>
+<punctuation>,</punctuation>
+<word>increasingly</word>
+<word>common</word>
+<word>due</word>
+<word>climate</word>
+<word>change</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>ecological</word>
+<word>economic</word>
+<word>factors</word>
+<punctuation>,</punctuation>
+<word>biodiversity</word>
+<word>holds</word>
+<word>immense</word>
+<word>cultural</word>
+<word>significance</word>
+<punctuation>?</punctuation>
+</sentence>
+<sentence>
+<word>communities</word>
+<word>world</word>
+<word>connections</word>
+<word>local</word>
+<word>environments</word>
+<punctuation>,</punctuation>
+<word>traditional</word>
+<word>knowledge</word>
+<word>practices</word>
+<word>specific</word>
+<word>species</word>
+<word>ecosystems</word>
+<punctuation>?</punctuation>
+</sentence>
+<sentence>
+<word>cultural</word>
+<word>heritage</word>
+<word>intertwined</word>
+<word>identity</word>
+<word>communities</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>Protecting</word>
+<word>biodiversity</word>
+<word>helps</word>
+<word>preserve</word>
+<word>cultural</word>
+<word>legacy</word>
+<word>future</word>
+<word>generations</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>importance</word>
+<punctuation>,</punctuation>
+<word>biodiversity</word>
+<word>threat</word>
+<word>human</word>
+<word>activities</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>Habitat</word>
+<word>destruction</word>
+<punctuation>,</punctuation>
+<word>pollution</word>
+<punctuation>,</punctuation>
+<word>climate</word>
+<word>change</word>
+<punctuation>,</punctuation>
+<word>overexploitation</word>
+<word>resources</word>
+<word>leading</word>
+<word>extinction</word>
+<word>species</word>
+<word>alarming</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>World</word>
+<word>Wildlife</word>
+<punctuation>,</punctuation>
+<word>world</word>
+<punctuation>’</punctuation>
+<word>s</word>
+<word>wildlife</word>
+<word>40</word>
+<word>years</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>affects</word>
+<word>species</word>
+<word>cascading</word>
+<word>effects</word>
+<word>entire</word>
+<word>ecosystems</word>
+<word>human</word>
+<word>societies</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>combat</word>
+<word>decline</word>
+<word>biodiversity</word>
+<punctuation>,</punctuation>
+<word>conservation</word>
+<word>efforts</word>
+<word>essential</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>include</word>
+<word>establishing</word>
+<word>protected</word>
+<word>areas</word>
+<punctuation>,</punctuation>
+<word>restoring</word>
+<word>degraded</word>
+<word>ecosystems</word>
+<punctuation>,</punctuation>
+<word>implementing</word>
+<word>sustainable</word>
+<punctuation>-</punctuation>
+<word>use</word>
+<word>practices</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>International</word>
+<word>agreements</word>
+<punctuation>,</punctuation>
+<word>Convention</word>
+<word>Biological</word>
+<word>Diversity</word>
+<punctuation>,</punctuation>
+<word>aim</word>
+<word>promote</word>
+<word>conservation</word>
+<word>biodiversity</word>
+<word>ensure</word>
+<word>sustainable</word>
+<word>local</word>
+<word>actions</word>
+<word>equally</word>
+<word>important</word>
+<punctuation>;</punctuation>
+<word>community</word>
+<punctuation>-</punctuation>
+<word>led</word>
+<word>conservation</word>
+<word>initiatives</word>
+<word>incredibly</word>
+<word>effective</word>
+<word>protecting</word>
+<word>local</word>
+<word>ecosystems</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>conclusion</word>
+<punctuation>,</punctuation>
+<word>biodiversity</word>
+<word>vital</word>
+<word>health</word>
+<word>planet</word>
+<punctuation>-</punctuation>
+<word>being</word>
+<word>humanity</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>supports</word>
+<word>ecological</word>
+<word>balance</word>
+<punctuation>,</punctuation>
+<word>economic</word>
+<word>resources</word>
+<punctuation>,</punctuation>
+<word>regulates</word>
+<word>climate</word>
+<punctuation>,</punctuation>
+<word>enriches</word>
+<word>cultural</word>
+<word>identities</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>Protecting</word>
+<word>biodiversity</word>
+<word>environmental</word>
+<word>issue</word>
+<punctuation>;</punctuation>
+<word>fundamental</word>
+<word>aspect</word>
+<word>ensuring</word>
+<word>sustainable</word>
+<word>future</word>
+<word>living</word>
+<word>beings</word>
+<punctuation>.</punctuation>
+</sentence>
+<sentence>
+<word>individuals</word>
+<punctuation>,</punctuation>
+<word>communities</word>
+<punctuation>,</punctuation>
+<word>nations</word>
+<punctuation>,</punctuation>
+<word>recognize</word>
+<word>importance</word>
+<word>biodiversity</word>
+<word>collectively</word>
+<word>safeguard</word>
+<word>future</word>
+<word>generations</word>
+<punctuation>.</punctuation>
+</sentence>
 </text>
